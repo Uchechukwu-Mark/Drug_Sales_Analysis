@@ -14,9 +14,9 @@ The analysis serves several key objectives:
 To ensure accuracy and reliability, data cleaning was meticulously executed. Duplicates were eradicated, transactions with zero drug quantities were removed, and a new column named "Status" was introduced to classify transactions as sales or returns based on the nature of the sales value.
 
 ### Analytical Insights
-The heart of the analysis lies in the insights extracted from the data. Pivot tables were employed to facilitate descriptive analysis, resulting in a wealth of key findings:
+The heart of the analysis lies in the insights extracted from the data. Pivot tables were employed to facilitate the analysis, resulting in a wealth of key findings which include but not limited to:
 - **Yearly and Monthly Revenue**: The year 2018 emerged as the most lucrative, generating a staggering revenue of $3,506,897,354, and August took the lead in monthly revenue with $1,186,627,360.
-- **Top Revenue Generators**: The pharmacy sub-channel stood out as the highest revenue generator. The drug "Ionclotide" and the drug class "Analgesics" reigned supreme, amassing revenue of $169,083,391 and $2,371,515,114, respectively.
+- **Top Revenue Generators**: The pharmacy channel of sales stood out as the highest revenue generator. The drug "Ionclotide" and the drug class "Analgesics" reigned supreme, amassing revenue of $169,083,391 and $2,371,515,114, respectively.
 - **Returns Exploration**: The drug "Abatatriptan" witnessed the highest quantity of returns, totaling 3367 units. However, the reason for these returns remained undocumented.
 
 ### Visual Representation and Insights Sharing
@@ -31,3 +31,6 @@ As with any analysis, challenges were encountered:
 This analysis serves as a stepping stone for future endeavors. By refining data collection and incorporating return reason documentation, deeper insights into customer behavior can be obtained. Moreover, expanding the dataset for Poland would enable more accurate trend analysis.
 
 In conclusion, this drug sales analysis amalgamates the realms of data analysis and pharmaceuticals. Armed with a biochemistry background and adeptness in data tools, the analyst presents a thorough investigation into revenue trends, drug performance, and sales teams.
+
+(Kindly click on the file section and dowmload the Excel file to view the data and visuals. Thank you.)
+Feel free to leave a comment, question or correction.
